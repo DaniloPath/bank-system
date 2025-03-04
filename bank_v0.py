@@ -1,5 +1,5 @@
 # Essa primeira versão é so para um único cliente com um limite de três saques por dia (execução).
-# O saldo inicial é zero e o limite é de R$ 500,00/dia.
+# O saldo inicial é zero e o limite é de R$ 500,00 por saque.
 
 menu = """
 
