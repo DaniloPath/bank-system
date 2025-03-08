@@ -1,2 +1,2 @@
 # bank-system
-Little programs of bank system make with python.
+Little program of bank system make with python.
