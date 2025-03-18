@@ -250,7 +250,7 @@ def menu():
     [6]\tNovo usuário
     [0]\tSair
     => """
-    return input(textwrap.dedent(menu))
+    return int(input(textwrap.dedent(menu).strip()))
 
 
 def filtrar_cliente(cpf, clientes):
